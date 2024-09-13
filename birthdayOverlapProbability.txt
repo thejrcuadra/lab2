@@ -1,0 +1,12 @@
+Birthday Overlap Probability Experiment 
+--
+In 5 trials the probability of same birthday attained was 100.0%
+In 10 trials the probability of same birthday attained was 50.0%
+In 15 trials the probability of same birthday attained was 86.67%
+In 20 trials the probability of same birthday attained was 80.0%
+In 25 trials the probability of same birthday attained was 76.0%
+In 30 trials the probability of same birthday attained was 80.0%
+In 35 trials the probability of same birthday attained was 88.57%
+In 40 trials the probability of same birthday attained was 80.0%
+In 45 trials the probability of same birthday attained was 77.78%
+In 50 trials the probability of same birthday attained was 78.0%
